@@ -1,0 +1,87 @@
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\appsettings.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.staticwebassets.runtime.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.exe
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.deps.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.runtimeconfig.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\ASP CRUD.pdb
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Azure.Core.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Azure.Identity.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Humanizer.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.CodeDom.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Text.Json.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.csproj.AssemblyReference.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.AssemblyInfoInputs.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.AssemblyInfo.cs
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.csproj.CoreCompileInputs.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.RazorAssemblyInfo.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.RazorAssemblyInfo.cs
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets\msbuild.ASP CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP CRUD.props
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP CRUD.props
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP CRUD.props
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\scopedcss\bundle\ASP CRUD.styles.css
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\scopedcss\projectbundle\ASP CRUD.bundle.scp.css
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.csproj.CopyComplete
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\refint\ASP CRUD.dll
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.pdb
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ASP CRUD.genruntimeconfig.cache
+D:\CRUD-ASP.Net-Core-6.0\ASP CRUD\ASP CRUD\obj\Debug\net6.0\ref\ASP CRUD.dll
