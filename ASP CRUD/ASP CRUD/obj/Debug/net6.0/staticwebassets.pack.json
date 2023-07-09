@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user1.avif",
+      "PackagePath": "staticwebassets\\images\\user1.avif"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user2.webp",
+      "PackagePath": "staticwebassets\\images\\user2.webp"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user3.webp",
+      "PackagePath": "staticwebassets\\images\\user3.webp"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user4.avif",
+      "PackagePath": "staticwebassets\\images\\user4.avif"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user4.jpeg",
+      "PackagePath": "staticwebassets\\images\\user4.jpeg"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user5.jpg",
+      "PackagePath": "staticwebassets\\images\\user5.jpg"
+    },
+    {
       "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

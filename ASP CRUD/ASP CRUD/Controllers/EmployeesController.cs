@@ -18,5 +18,9 @@ namespace ASP_CRUD.Controllers
                 .OrderBy(x => x.EmployeeName).ToList();
             return View(result);
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
     }
 }

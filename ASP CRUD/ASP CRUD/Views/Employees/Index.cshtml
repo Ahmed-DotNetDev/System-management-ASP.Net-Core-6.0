@@ -9,7 +9,7 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+<table class="table table-dark text-center">
     <thead>
         <tr>
             <th>
@@ -34,7 +34,7 @@
                 @Html.DisplayNameFor(model => model.NationalId)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.DepartmentId)
+                @Html.DisplayNameFor(model => model.Department.DepartmentName)
             </th>
             <th></th>
         </tr>
@@ -49,7 +49,7 @@
                 @Html.DisplayFor(modelItem => item.EmployeeName)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.ImageUser)
+                <img src="images/@item.ImageUser" style="width:35px;height:35px">
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.BirthDate)
