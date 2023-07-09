@@ -1,3 +1,6 @@
+using ASP_CRUD.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace ASP_CRUD
 {
     public class Program
@@ -8,7 +11,7 @@ namespace ASP_CRUD
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<ApplicationDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionDB")));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
