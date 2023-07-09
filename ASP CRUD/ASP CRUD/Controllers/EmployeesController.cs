@@ -20,6 +20,7 @@ namespace ASP_CRUD.Controllers
         }
         public IActionResult Create()
         {
+            ViewBag.Departments = _context.Departments.OrderBy(x => x.DepartmentName).ToList();
             return View();
         }
     }
