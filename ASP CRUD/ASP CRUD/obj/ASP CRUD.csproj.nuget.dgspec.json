@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\COLLECTIONSSS\\PS TEST\\BACkEND\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj": {}
+    "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj": {}
   },
   "projects": {
-    "D:\\COLLECTIONSSS\\PS TEST\\BACkEND\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj": {
+    "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\COLLECTIONSSS\\PS TEST\\BACkEND\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj",
+        "projectUniqueName": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj",
         "projectName": "ASP CRUD",
-        "projectPath": "D:\\COLLECTIONSSS\\PS TEST\\BACkEND\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj",
+        "projectPath": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\ASP CRUD.csproj",
         "packagesPath": "C:\\Users\\Software Engineer\\.nuget\\packages\\",
-        "outputPath": "D:\\COLLECTIONSSS\\PS TEST\\BACkEND\\ASP CRUD\\ASP CRUD\\obj\\",
+        "outputPath": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Software Engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,32 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
