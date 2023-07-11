@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HjNdMNc5vOo6c17yP3fY6RwPz3NujZ4kcvB1RAQM19s=",
+  "Hash": "ZQ1Dv4t+ATgjgyrRUfTxMT6of11ZGT5Z17Rc9yeKUxQ=",
   "Source": "ASP CRUD",
   "BasePath": "_content/ASP CRUD",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\416dd6b9-6c35-4ebf-b0d1-12da29efb5ff.jpg",
+      "SourceId": "ASP CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\",
+      "BasePath": "_content/ASP CRUD",
+      "RelativePath": "images/416dd6b9-6c35-4ebf-b0d1-12da29efb5ff.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\416dd6b9-6c35-4ebf-b0d1-12da29efb5ff.jpg"
+    },
+    {
+      "Identity": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\defaultimg.jpg",
+      "SourceId": "ASP CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\",
+      "BasePath": "_content/ASP CRUD",
+      "RelativePath": "images/defaultimg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\defaultimg.jpg"
     },
     {
       "Identity": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user1.avif",

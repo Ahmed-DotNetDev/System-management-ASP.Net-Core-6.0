@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\416dd6b9-6c35-4ebf-b0d1-12da29efb5ff.jpg",
+      "PackagePath": "staticwebassets\\images\\416dd6b9-6c35-4ebf-b0d1-12da29efb5ff.jpg"
+    },
+    {
+      "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\defaultimg.jpg",
+      "PackagePath": "staticwebassets\\images\\defaultimg.jpg"
+    },
+    {
       "Id": "D:\\CRUD-ASP.Net-Core-6.0\\ASP CRUD\\ASP CRUD\\wwwroot\\images\\user1.avif",
       "PackagePath": "staticwebassets\\images\\user1.avif"
     },
