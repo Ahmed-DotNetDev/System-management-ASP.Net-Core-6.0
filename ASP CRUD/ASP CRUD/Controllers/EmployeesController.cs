@@ -35,9 +35,27 @@ namespace ASP_CRUD.Controllers
                 return RedirectToAction(nameof(Index));
             }
             //ViewBag.Departments = _context.Departments.OrderBy(x => x.DepartmentName).ToList();
-
             return View();
+        }
+        public IActionResult Edit(int? id)
+        {
+            ViewBag.Departments = _context.Departments.OrderBy(x => x.DepartmentName).ToList();
+            var result = _context.Employees.Find(id);
+            return View("Create", result);
+        }
 
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(Employee model)
+        {
+            if (model != null)
+            {
+                _context.Employees.Update(model);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            ViewBag.Departments = _context.Departments.OrderBy(x => x.DepartmentName).ToList();
+            return View(model);
         }
     }
 }
