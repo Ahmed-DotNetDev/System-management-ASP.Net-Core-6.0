@@ -7,7 +7,7 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
 </p>
 <table class="table table-dark text-center">
     <thead>
@@ -36,7 +36,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Department.DepartmentName)
             </th>
-            <th></th>
+            <th>Events</th>
         </tr>
     </thead>
     <tbody>
@@ -67,8 +67,9 @@
                 @Html.DisplayFor(modelItem => item.Department.DepartmentName)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new {  id=item.EmployeeId  }) |
-                @Html.ActionLink("Delete", "Delete", new {  id=item.EmployeeId  })
+                    @Html.ActionLink("Edit", "Edit", new {  id=item.EmployeeId  }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Delete", "Delete", new {  id=item.EmployeeId  },new { @class = "btn btn-danger",onclick = "return confirm('Are you sure you want to delete this record?');"})
+                    
             </td>
         </tr>
 }
