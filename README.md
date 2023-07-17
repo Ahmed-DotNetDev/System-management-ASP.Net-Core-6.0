@@ -14,4 +14,6 @@
 - **Dependency injection**
 - **EF Core**
 - **SQL Server**
+- **LINQ**
+- **Bootsrap**
 
