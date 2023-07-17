@@ -11,3 +11,4 @@
 - **Razor**
 - **SOC**
 - **C#**
+- **Dependency injection**
