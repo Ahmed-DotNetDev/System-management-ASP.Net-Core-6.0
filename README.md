@@ -12,3 +12,6 @@
 - **SOC**
 - **C#**
 - **Dependency injection**
+- **EF Core**
+- **SQL Server**
+
